@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple No Dice</string>
+    <string name="click_on_dice_to_roll">Click on Dice to Roll</string>
+    <string name="app_by_shravan">App By Shravan</string>
+</resources>
